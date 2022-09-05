@@ -1,0 +1,76 @@
+:root {
+    /* The following colors are from Stanford University's Identity Guide <https://identity.stanford.edu/> and are intended for use with Stanford-related projects. */
+    
+    /* Primary colors from https://identity.stanford.edu/design-elements/color/primary-colors/ */
+    --stanford-cardinal-red: #8C1515;
+    --stanford-cardinal-red-light: #B83A4B;
+    --stanford-cardinal-red-dark: #820000;
+    --stanford-white: #FFFFFF;
+    --stanford-black: #2E2D29;
+    --stanford-cool-grey: #53565A;
+    --stanford-100-percent-black: #2E2D29;
+    --stanford-90-percent-black: #43423E;
+    --stanford-80-percent-black: #585754;
+    --stanford-70-percent-black: #6D6C69;
+    --stanford-60-percent-black: #767674;
+    --stanford-50-percent-black: #979694;
+    --stanford-40-percent-black: #ABABA9;
+    --stanford-30-percent-black: #C0C0BF;
+    --stanford-20-percent-black: #D5D5D4;
+    --stanford-10-percent-black: #EAEAEA;
+    
+    /* Accent colors from https://identity.stanford.edu/design-elements/color/accent-colors/ */
+    --stanford-palo-alto: #175E54;
+    --stanford-palo-alto-light: #2D716F;
+    --stanford-palo-alto-dark: #014240;
+    --stanford-palo-verde: #279989;
+    --stanford-palo-verde-light: #59B3A9;
+    --stanford-palo-verde-dark: #017E7C;
+    --stanford-olive: #8F993E;
+    --stanford-olive-light: #A6B168;
+    --stanford-olive-dark: #7A863B;
+    --stanford-bay: #8AB8A7;
+    --stanford-bay-light: #6FA287
+    --stanford-bay-dark: #417865;
+    --stanford-sky: #4298B5;
+    --stanford-sky-light: #67AFD2;
+    --stanford-sky-dark: #016895;
+    --stanford-lagunita: #007C92;
+    --stanford-lagunita-light: #009AB4;
+    --stanford-lagunita-dark: #006B81;
+    --stanford-poppy: #E98300;
+    --stanford-poppy-light: #F9A44A;
+    --stanford-poppy-dark: #D1660F;
+    --stanford-spirited: #E04F39;
+    --stanford-spirited-light: #F4795B;
+    --stanford-spirited-dark: #C74632;
+    --stanford-illuminating: #FEDD5C;
+    --stanford-illuminating-light: #FFE781;
+    --stanford-illuminating-dark: #FEC51D;
+    --stanford-plum: #620059;
+    --stanford-plum-light: #734675;
+    --stanford-plum-dark: #350D36;
+    --stanford-brick: #651C32;
+    --stanford-brick-light: #7F2D48;
+    --stanford-brick-dark: #42081B;
+    --stanford-archway: #5D4B3C;
+    --stanford-archway-light: #766253;
+    --stanford-archway-dark: #2F2424;
+    --stanford-stone: #7F7776;
+    --stanford-stone-light: #D4D1D1;
+    --stanford-stone-dark: #544948;
+    --stanford-fog: #DAD7CB;
+    --stanford-fog-light: #F4F4F4;
+    --stanford-fog-dark: #B6B1A9;
+
+    /* Web interactive colors from https://identity.stanford.edu/design-elements/color/web/ */
+    --stanford-digital-red: #B1040E;
+    --stanford-digital-red-light: #E50808;
+    --stanford-digital-red-dark: #820000;
+    --stanford-digital-blue: #006CB8;
+    --stanford-digital-blue-light: #6FC3FF;
+    --stanford-digital-blue-dark: #00548f;
+    --stanford-digital-green: #008566;
+    --stanford-digital-green-light: #1AECBA;
+    --stanford-digital-green-dark: #006F54;
+}
